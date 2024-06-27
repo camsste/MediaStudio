@@ -32,11 +32,11 @@ O projeto está estruturado da seguinte forma:
    cd seu-repositorio
 
 2. **Executar a Aplicação:**
-
 Abra o terminal na pasta raiz do projeto e execute:
 
-dotnet run --project MediaStudio
-
+  ```bash
+  dotnet run --project MediaStudio
+    
 Acesse a API pelo navegador ou ferramenta como Postman: Swagger UI - Documentação interativa da API.
 
 3. **Documentação da API:**
